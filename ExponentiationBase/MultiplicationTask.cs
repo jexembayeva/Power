@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExponentiationBase
+namespace PowerBase
 {
     public class MultiplicationTask : ITask
     {

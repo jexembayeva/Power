@@ -1,10 +1,9 @@
-﻿using ExponentiationBase;
+﻿using PowerBase;
 using System;
 using System.Diagnostics;
-using System.Globalization;
 using System.IO;
 
-namespace LuckyTickets
+namespace Power
 {
     public class Tester
     {

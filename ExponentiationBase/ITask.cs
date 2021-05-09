@@ -1,4 +1,4 @@
-﻿namespace ExponentiationBase
+﻿namespace PowerBase
 {
     public interface ITask
     {

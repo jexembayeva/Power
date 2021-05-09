@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Numerics;
 
-namespace ExponentiationBase
+namespace PowerBase
 {
     public class BinaryTask : ITask
     {

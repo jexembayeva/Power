@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace ExponentiationBase
+namespace PowerBase
 {
     public class IterativeTask : ITask
     {

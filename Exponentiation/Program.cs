@@ -1,7 +1,7 @@
-﻿using ExponentiationBase;
+﻿using PowerBase;
 using System;
 
-namespace LuckyTickets
+namespace Power
 {
     class Program
     {
