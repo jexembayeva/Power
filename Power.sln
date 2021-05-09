@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power", "Exponentiation\Power.csproj", "{D4F89CED-5057-4966-9B16-0F196383E7CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerBase", "ExponentiationBase\PowerBase.csproj", "{3971D413-4D14-42A8-AA86-161FA84AA180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F89CED-5057-4966-9B16-0F196383E7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F89CED-5057-4966-9B16-0F196383E7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F89CED-5057-4966-9B16-0F196383E7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F89CED-5057-4966-9B16-0F196383E7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3971D413-4D14-42A8-AA86-161FA84AA180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3971D413-4D14-42A8-AA86-161FA84AA180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3971D413-4D14-42A8-AA86-161FA84AA180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3971D413-4D14-42A8-AA86-161FA84AA180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C50F9884-292D-4130-9C85-169803B0B45C}
+	EndGlobalSection
+EndGlobal
